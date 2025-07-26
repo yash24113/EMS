@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "684a829128cad384a9346aa4"
+  },
+  "officename": "Safala",
+  "latitude": 23.1151515,
+  "longitude": 45.1555
+},
+{
+  "_id": {
+    "$oid": "684a829128cad384a9346aa5"
+  },
+  "officename": "Mumbai HQ",
+  "latitude": 19.076,
+  "longitude": 72.8777
+},
+{
+  "_id": {
+    "$oid": "684a829128cad384a9346aa6"
+  },
+  "officename": "Delhi Branch",
+  "latitude": 28.6139,
+  "longitude": 77.209
+}]
