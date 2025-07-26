@@ -12,6 +12,6 @@
     "express": "^5.1.0",
     "mongoose": "^8.15.1",
     "multer": "^2.0.1",
-    "@vercel/blob": "^1.5.4"
+    "@vercel/blob": "^1.2.2"
   }
 }
